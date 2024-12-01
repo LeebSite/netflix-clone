@@ -1,0 +1,15 @@
+.slider-container {
+    margin: 20px;
+  }
+  .movie-item {
+    padding: 10px;
+  }
+  .movie-item img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  .movie-item h3 {
+    text-align: center;
+    color: white;
+  }
+  
